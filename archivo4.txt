@@ -1,1 +1,2 @@
-anterior siguiente 
+anterior siguiente  error 
+retroceder avanzar 
